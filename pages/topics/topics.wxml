@@ -1,0 +1,6 @@
+<!--topics.wxml-->
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="page-container">
+    topics
+  </view>
+</scroll-view>

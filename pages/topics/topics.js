@@ -1,0 +1,2 @@
+/**topics.js**/
+Page({})

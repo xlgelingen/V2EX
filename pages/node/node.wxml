@@ -1,0 +1,6 @@
+<!--node.wxml-->
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="page-container">
+   node
+  </view>
+</scroll-view>
