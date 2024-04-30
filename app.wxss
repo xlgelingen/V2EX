@@ -1,5 +1,5 @@
 /**app.wxss**/
-@import '/template/topics/topics.wxss'
+@import '/template/topics/topics.wxss';
 
 page {
   height: 100vh;
