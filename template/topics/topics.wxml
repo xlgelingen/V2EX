@@ -10,12 +10,12 @@
 </template>
 
 <template name="replies">
-  <navigator class="topics-item" wx:for="{{replies}}" wx:key="unique" url="/pages/show/show?id={{item.id}}">
+  <view class="topics-item" wx:for="{{replies}}" wx:key="unique" url="/pages/show/show?id={{item.id}}">
     <image class="topics-avatar" src="{{item.member.avatar_normal}}" />
     <view class="topics-content">
       <view class="topics-username">{{item.member.username}}</view>
       <view class="topics-title">{{item.content}}</view>
     </view>
-  </navigator>
+  </view>
 </template>
 
